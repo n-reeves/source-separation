@@ -5,6 +5,6 @@ The speech enhancement network leverages a complex U-Net design and demonstrates
 
 The repository is currently limited to signals with two speakers or less.
 
-The ,ipynb contains a walkthrough of the different sections of codes and the set up for experiments run on a number of configurations.
+The .ipynb contains a walkthrough of the different sections of codes and the set up for experiments run on a number of configurations.
 
 This project has gone through some refactoring so some bugs may be present. Please reach out to me if you have any questions or would like access to model weights. 
